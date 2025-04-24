@@ -1,0 +1,11 @@
+Worker_ID,Project_ID,Role,Hours_Worked,Efficiency(%)
+101,4,Engineer,27,84
+102,4,Manager,33,72
+103,4,Supervisor,53,87
+104,8,Supervisor,53,75
+105,5,Laborer,46,83
+106,6,Manager,56,85
+107,4,Supervisor,50,86
+108,6,Supervisor,32,80
+109,10,Laborer,25,98
+110,4,Engineer,42,96

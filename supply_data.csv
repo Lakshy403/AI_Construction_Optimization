@@ -1,0 +1,11 @@
+Material_ID,Material_Type,Supplier,Delivery_Status,Cost_Per_Unit
+201,Cement,Supplier_1,Delayed,70
+202,Steel,Supplier_2,In Transit,72
+203,Bricks,Supplier_3,In Transit,222
+204,Glass,Supplier_4,In Transit,436
+205,Glass,Supplier_5,In Transit,104
+206,Steel,Supplier_6,Delayed,118
+207,Steel,Supplier_7,On Time,424
+208,Glass,Supplier_8,On Time,409
+209,Wood,Supplier_9,In Transit,273
+210,Bricks,Supplier_10,In Transit,254
